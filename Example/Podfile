@@ -1,0 +1,6 @@
+use_frameworks!
+target 'GXCommonKit_Tests' do
+  pod 'GXCommonKit', :path => '../'
+  
+  
+end
